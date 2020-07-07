@@ -1,5 +1,3 @@
-//My First Code for git
-
 #include<bits/stdc++.h>
 using namespace std;
 
